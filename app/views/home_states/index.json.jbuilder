@@ -1,0 +1,1 @@
+json.array! @home_states, partial: 'home_states/home_state', as: :home_state
